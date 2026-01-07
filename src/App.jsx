@@ -1,5 +1,12 @@
+import Counter from "./Counter.jsx";
 
+function App() {
 
-function App() {}
+  return(
+    <>
+    <Counter />
+    </>
+  );
+}
 
 export default App
