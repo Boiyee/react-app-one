@@ -11,4 +11,4 @@ function ComponentB() {
     );
 }
 
-export default ComponentA
+export default ComponentB
