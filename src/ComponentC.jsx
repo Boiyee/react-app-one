@@ -3,12 +3,10 @@ import ComponentD from './ComponentD.jsx';
 
 function ComponentC() {
 
-  const [user, setUser] = useState("Boiyee");
-
     return(
         <div className="box">
             <h1>ComponentC</h1>
-            <ComponentD />
+            <ComponentD user={props.user} />
         </div>
     );
 }
