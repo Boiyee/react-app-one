@@ -1,10 +1,12 @@
-import MyComponent from "./MyComponent.jsx";
+import Stopwatch from "./Stopwatch.jsx";
+
+import React from "react";
 
 function App() {
 
   return(
     <>
-    <MyComponent />
+    <Stopwatch />
     </>
   );
 }
