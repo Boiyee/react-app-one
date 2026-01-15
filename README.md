@@ -23,3 +23,10 @@ If you are developing a production application, we recommend using TypeScript wi
 - Digital clock component
 - Food component
 - Header component
+- Footer component
+- Mycomponent
+- Profile picture component
+- Stopwatch component
+- Todo list component
+- Student component
+- User greeting component
